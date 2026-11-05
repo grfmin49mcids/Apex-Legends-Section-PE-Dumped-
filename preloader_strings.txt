@@ -1,0 +1,176 @@
+0000004d  !This program cannot be run in DOS mode.$
+000001a7  `.rdata
+000001cf  @.data
+000001f8  .entry
+0000021f  @.rsrc
+00000247  @.reloc
+000014a0  AWAVVWSH
+000014e7   [_^A^A_H
+00001561   [_^A^A_
+00001570  AWAVAUATVWUSH
+0000157f  hHcQ<1
+0000177d  h[]_^A\A]A^A_
+00001790  AWAVAUATVWUSH
+00002582  D$PHcH<
+0000282f  []_^A\A]A^A_
+000029b0  AWAVVWUS
+00002b82  []_^A^A_
+00004340  wine_get_version
+000043b0  3]X+'/
+000045ee  \$Q2ST
+00004600  RtlWow64GetProcessMachines
+00005206  la^iEE
+0000528d  1"EYg-
+000052b6  ]$C9"D
+00005b51  3!XI-X
+00005cca  la^iEE
+00005e55  /KUNkb
+00005fb7  $3VeKW
+0000610e  3[i>Lh
+00006774  LLD PDB.
+00006780  /work/preloader.pdb
+000068c8  preloader.unsigned.dll
+000068f3  /* 758006cd4e6979455628cd475a97f5b98258f9beb7243814801800b64ee5420c */
+0000693a  preloader_link_func
+00006b8a  LdrAccessResource
+00006b9e  LdrFindEntryForAddress
+00006bb8  LdrFindResource_U
+00006bcc  LdrGetProcedureAddress
+00006be6  MD5Init
+00006bf0  NtAllocateVirtualMemory
+00006c0a  NtCreateSection
+00006c1c  NtMapViewOfSection
+00006c32  NtOpenFile
+00006c40  NtProtectVirtualMemory
+00006c5a  NtReadFile
+00006c68  NtTerminateProcess
+00006c7e  NtYieldExecution
+00006c92  RtlAllocateHeap
+00006ca4  RtlAppendUnicodeToString
+00006cc0  RtlCopyUnicodeString
+00006cd8  RtlCreateEnvironment
+00006cf0  RtlCreateProcessParametersEx
+00006d10  RtlDosPathNameToNtPathName_U_WithStatus
+00006d3a  RtlExpandEnvironmentStrings
+00006d58  RtlFindCharInUnicodeString
+00006d76  RtlFindMessage
+00006d88  RtlPcToFileHeader
+00006d9c  RtlQueryEnvironmentVariable
+00006dba  RtlQueryEnvironmentVariable_U
+00006dda  ZwClose
+00006de4  ZwCreateFile
+00006df4  ZwCreateThreadEx
+00006e08  ZwCreateUserProcess
+00006e1e  ZwDeleteFile
+00006e2e  ZwQueryDirectoryFile
+00006e46  ZwQueryInformationFile
+00006e60  ZwQueryInformationProcess
+00006e7c  ZwQuerySystemInformation
+00006e98  ZwSetInformationFile
+00006eb0  ZwWaitForSingleObject
+00006ec8  __C_specific_handler
+00006ee0  __chkstk
+00006eec  _snwprintf_s
+00006efc  mbstowcs
+00006f08  memcmp
+00006f12  memset
+00006f1c  wcsncat
+00006f26  wcstoul
+00006f30  CallNextHookEx
+00006f42  DefWindowProcW
+00006f54  GetProcessWindowStation
+00006f6e  GetUserObjectInformationW
+00006f8a  GetWindowLongPtrW
+00006f9e  IsChild
+00006fa8  MessageBoxW
+00006fb6  SetWindowLongPtrW
+00006fd0  RegGetValueW
+00006fde  ntdll.dll
+00006fe8  USER32.dll
+00006ff3  GDI32.dll
+00006ffd  ADVAPI32.dll
+000088e0  <?xml version="1.0" encoding="UTF-8"?>
+00008907  <assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+00008951    <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+00008988      <security>
+00008997        <requestedPrivileges>
+000089b3          <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+000089f9        </requestedPrivileges>
+00008a16      </security>
+00008a26    </trustInfo>
+00008a35  </assembly>
+00008edd  DigiCert Inc1
+00008ef4  www.digicert.com1$0"
+00008f0f  DigiCert Assured ID Root CA0
+00008f2e  220801000000Z
+00008f3d  311109235959Z0b1
+00008f64  DigiCert Inc1
+00008f7b  www.digicert.com1!0
+00008f96  DigiCert Trusted Root G40
+00008fd7  ]J<0"0i3
+000090f9  v=Y]Bv
+0000925b  http://ocsp.digicert.com0C
+00009280  7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0E
+000092ca  4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0
+000093fd  ~qj#k"
+0000946e  DigiCert Inc1
+00009485  www.digicert.com1!0
+000094a0  DigiCert Trusted Root G40
+000094bc  210429000000Z
+000094cb  360428235959Z0i1
+000094f2  DigiCert, Inc.1A0?
+0000950a  8DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA10
+000096fb  [K]taM?
+00009750  SA|X=G
+00009808  http://ocsp.digicert.com0A
+0000982d  5http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+00009875  2http://crl3.digicert.com/DigiCertTrustedRootG4.crl0
+00009a8c  jj@0HK4
+00009b22  DigiCert Inc1
+00009b39  www.digicert.com1!0
+00009b54  DigiCert Trusted Root G40
+00009b70  250507000000Z
+00009b7f  380114235959Z0i1
+00009ba6  DigiCert, Inc.1A0?
+00009bbe  8DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA10
+00009ebc  http://ocsp.digicert.com0A
+00009ee1  5http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+00009f29  2http://crl3.digicert.com/DigiCertTrustedRootG4.crl0 
+0000a0bd  :U|r*C
+0000a1da  DigiCert, Inc.1A0?
+0000a1f2  8DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA10
+0000a22f  260805000000Z
+0000a23e  371104235959Z0c1
+0000a265  DigiCert, Inc.1;09
+0000a27d  2DigiCert SHA256 RSA4096 Timestamp Responder 2026 10
+0000a4ca  @!z\0%=
+0000a575  http://ocsp.digicert.com0]
+0000a59a  Qhttp://cacerts.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crt0_
+0000a5fe  Nhttp://crl3.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crl0 
+0000a6d3  kxXgMt
+0000a8cb  DigiCert, Inc.1A0?
+0000a8e3  8DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA10
+0000a920  250122000000Z
+0000a92f  270125235959Z0
+0000a968  Delaware1
+0000a97b  Private Organization1
+0000a99a  22624971
+0000a9b9  California1
+0000a9ce  Redwood City1
+0000a9e5  Electronic Arts, Inc.1'0%
+0000aa05  EA SPEAR AntiCheat Engineering1
+0000aa2e  Electronic Arts, Inc.0
+0000ab7e  =9CpX8g
+0000acd5  http://www.digicert.com/CPS0
+0000ad2a  Mhttp://crl3.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA3842021CA1.crl0S
+0000ad7f  Mhttp://crl4.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA3842021CA1.crl0
+0000adee  http://ocsp.digicert.com0\
+0000ae13  Phttp://cacerts.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA3842021CA1.crt0
+0000b039  vEC7O&
+0000b0aa  DigiCert, Inc.1A0?
+0000b0c2  8DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1
+0000b19f  https://electronic-arts.com0
+0000b2f3  k7Dxa9
+0000b407  DigiCert, Inc.1A0?
+0000b41f  8DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA1
+0000b4a6  261022190242Z0/

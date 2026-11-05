@@ -1,0 +1,99 @@
+0000004d  !This program cannot be run in DOS mode.
+000001b0  .rdata
+000001d7  @.rsrc
+00000240  .rdata
+00000250  .rdata$voltmd
+00000268  .rdata$zzzdbg
+00000280  .rsrc$01
+00000294  .rsrc$02
+000004a4  default
+000004ad  r5apex_dx12.exe
+000004cd  r2_static_128_dx12.exe
+000004ed  showcase
+000004f6  "r2_x64_profile_static_128_dx12.exe
+0000051b  apexP<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+0000056b    <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+000005a3      <security>
+000005b3        <requestedPrivileges>
+000005d0          <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
+00000630        </requestedPrivileges>
+0000064e      </security>
+0000065f    </trustInfo>
+0000066f  </assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADD
+000008dd  DigiCert Inc1
+000008f4  www.digicert.com1$0"
+0000090f  DigiCert Assured ID Root CA0
+0000092e  220801000000Z
+0000093d  311109235959Z0b1
+00000964  DigiCert Inc1
+0000097b  www.digicert.com1!0
+00000996  DigiCert Trusted Root G40
+000009d7  ]J<0"0i3
+00000af9  v=Y]Bv
+00000c5b  http://ocsp.digicert.com0C
+00000c80  7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0E
+00000cca  4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0
+00000dfd  ~qj#k"
+00000e6e  DigiCert Inc1
+00000e85  www.digicert.com1!0
+00000ea0  DigiCert Trusted Root G40
+00000ebc  210429000000Z
+00000ecb  360428235959Z0i1
+00000ef2  DigiCert, Inc.1A0?
+00000f0a  8DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA10
+000010fb  [K]taM?
+00001150  SA|X=G
+00001208  http://ocsp.digicert.com0A
+0000122d  5http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+00001275  2http://crl3.digicert.com/DigiCertTrustedRootG4.crl0
+0000148c  jj@0HK4
+00001522  DigiCert Inc1
+00001539  www.digicert.com1!0
+00001554  DigiCert Trusted Root G40
+00001570  250507000000Z
+0000157f  380114235959Z0i1
+000015a6  DigiCert, Inc.1A0?
+000015be  8DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA10
+000018bc  http://ocsp.digicert.com0A
+000018e1  5http://cacerts.digicert.com/DigiCertTrustedRootG4.crt0C
+00001929  2http://crl3.digicert.com/DigiCertTrustedRootG4.crl0 
+00001abd  :U|r*C
+00001bda  DigiCert, Inc.1A0?
+00001bf2  8DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA10
+00001c2f  250604000000Z
+00001c3e  360903235959Z0c1
+00001c65  DigiCert, Inc.1;09
+00001c7d  2DigiCert SHA256 RSA4096 Timestamp Responder 2025 10
+00001d60  p%w+q4
+00001f75  http://ocsp.digicert.com0]
+00001f9a  Qhttp://cacerts.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crt0_
+00001ffe  Nhttp://crl3.digicert.com/DigiCertTrustedG4TimeStampingRSA4096SHA2562025CA1.crl0 
+000020e3  r&fR{a|
+000022cb  DigiCert, Inc.1A0?
+000022e3  8DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA10
+00002320  250122000000Z
+0000232f  270125235959Z0
+00002368  Delaware1
+0000237b  Private Organization1
+0000239a  22624971
+000023b9  California1
+000023ce  Redwood City1
+000023e5  Electronic Arts, Inc.1'0%
+00002405  EA SPEAR AntiCheat Engineering1
+0000242e  Electronic Arts, Inc.0
+0000257e  =9CpX8g
+000026d5  http://www.digicert.com/CPS0
+0000272a  Mhttp://crl3.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA3842021CA1.crl0S
+0000277f  Mhttp://crl4.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA3842021CA1.crl0
+000027ee  http://ocsp.digicert.com0\
+00002813  Phttp://cacerts.digicert.com/DigiCertTrustedG4CodeSigningRSA4096SHA3842021CA1.crt0
+00002a39  vEC7O&
+00002aaa  DigiCert, Inc.1A0?
+00002ac2  8DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1
+00002b9f  https://electronic-arts.com0
+00002e07  DigiCert, Inc.1A0?
+00002e1f  8DigiCert Trusted G4 TimeStamping RSA4096 SHA256 2025 CA1
+00002ea6  260625164646Z0/
+00002efb  b+LXDXy
+00002fe5  q>8|UF
+0000309c  j/3n6 z

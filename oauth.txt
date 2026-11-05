@@ -1,0 +1,7 @@
+auth=Bearer %s
+secret=%s&grant_type=authorization_code&code=%s
+secret=%s&grant_type=refresh_token&refresh_token=%s
+secret=%s&redirect_uri=%s&code=%s
+secret=%s&refresh_token=%s
+token=%s
+token=%s&proto=0&json=1&&env=%s&userId=%llx
