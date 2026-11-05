@@ -40,6 +40,8 @@ dumped every section of r5apex.exe on the current version of the game. everythin
 
 **cfg_strings.txt** : string dump of the exe. exe names, section names, embedded manifest
 
+every file is also in FILE_INDEX.md if u want the quick list
+
 ## using it
 
 grab the image base and section rvas out of headers.bin, drop each bin back at its rva and u got the whole exe rebuilt in ida or whatever u use. or just work the sections raw, rdata.bin and data.bin are where the good stuff is. preloader.dll is small and unsigned so throw it straight in ida too
